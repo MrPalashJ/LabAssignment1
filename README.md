@@ -1,2 +1,2 @@
 # MrPalashJ.github.io
-Web Application Lab Assignment
+Web Application Lab Assignment 1
